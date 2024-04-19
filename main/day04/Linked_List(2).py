@@ -5,7 +5,7 @@ class Node:
         self.onceki = None
 
 class ciftyonluliste:
-    def __init__(self,deger):
+    def __init__(self):
         self.ilkdugum=None
     def ekle(self,deger):
         yenidugum = Node(deger)

@@ -20,6 +20,7 @@ class Stack:
             print("Yigin bos")
         else:
             self.list.reverse()
+            print("Eleman yigindan silindi")
             return self.list.pop() #(yigindan bagimsiz)listenin son elemanini silmek icin normalde pop kullanilir
 
     def peek(self):#son elemani silmeden gosterir

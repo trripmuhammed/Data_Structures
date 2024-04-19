@@ -11,7 +11,7 @@ dizi.append(56)
 print(dizi)
 
 #dizi.insert(0,32)
-print(dizi)
+print(dizi) 
 dizi.insert(4,61)
 print(dizi)
 dizi.insert(15,53)
@@ -31,17 +31,18 @@ def eleman_ara(dizi,aranilan):
   for i in range(len(dizi)):
     if dizi[i]==aranilan:
       return i
-  return "eleman bulunamadı"
+  return "eleman bulunamadi"
 print(eleman_ara(dizi,4))
 print(eleman_ara(dizi,15))
 
 dizi.remove(25)
 print(dizi)
 dizi2=array('i',[12,13])
-dizi.extend(dizi2)
+
+dizi.extend(dizi2) #baska bir dizi ekleme
 print(dizi)
 L=[40,45]
-dizi.fromlist(L)
+dizi.fromlist(L) #gene dizi ekleme
 print(dizi)
 dizi.index(34)
 dizi.reverse()
@@ -59,7 +60,7 @@ print(matris2)
 matris3=append(matris,[[11,12,13]],axis=0)
 print(matris3)
 
-def elemanlaraerisim(matris, satirno, sutunno):
+def elemanlaraerisim(matris, satirno, sutunno): #eleman ariyor
   if(satirno>=len(matris) or sutunno>=len(matris[0])):
     return "hatalı giris"
   else:
@@ -72,15 +73,15 @@ for i in range(len(matris)):
     if matris[i][j]%2==0:
       print(matris[i][j], end="")
 
-def matrisara(matris,aranilan):
+def matrisde_ara(matris,aranilan):
   for i in range(len(matris)):
     for j in range(len(matris[0])):
       if matris[i][j]==aranilan:
         return "satir="+str(i)+"sutun="+str(j)
   return "eleman bulunamadi"
 matris=([[4,3,7,8],[1,4,8,2],[7,9,2,5],[12,17,92,22]])
-print(matrisara(matris,7))
-print(matrisara(matris,18))
+print(matrisde_ara(matris,7))
+print(matrisde_ara(matris,18))
 
 matris=([[4,3,7,8],[1,4,8,2],[7,9,2,5],[12,17,92,22]])
 matris2=delete(matris,1,axis=0)
@@ -115,14 +116,14 @@ print(karisik_liste)
 if 'sali' in karisik_liste:
   print("eleman bulundu")
 else:
-  print("bulunamadı")
+  print("bulunamadi")
 
 L1=[1,3,5,7,9]
 L2=[0,2,4,6,8]
 L3=L1+L2
 print(L3)
 
-L4=L2*3
+L4=L2*3 #listeyi 3 kere tekrar eder
 print(L4)
 
 L3.sort()

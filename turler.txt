@@ -1,0 +1,30 @@
+tuple: () #farkli olabilir 
+kume: {} #olabilri gibi
+liste: [] #farkli turler olabilir
+array: (tur,[]) olmaz
+sozluk:Map {} #farkli olabilir "bir":1
+CM: 2 sozlugu birlestirir
+
+sozluk:
+copy
+:
+get(key)
+keys
+items
+values
+dict.fromkeys(tuple,int) #sozluk olusturuyor
+
+kumeler:
+"|" birlestirme
+"&" kesisim
+"-" farkli
+">" kapsama (Bool return eder)
+
+CM:
+keys
+values
+iitems
+parents
+direkt atama yapilabilir Cm["renk5"]="siyah" gibi
+
+

@@ -26,7 +26,7 @@ class SLinked_List:
             self.ilkdugum = yenidugum
             return
         ilk = self.ilkdugum
-        while (ilk.sonraki):
+        while (ilk.sonraki): #eger bos veya none degilse true kabul edilir
             ilk = ilk.sonraki
         ilk.sonraki = yenidugum
 
@@ -41,6 +41,7 @@ class SLinked_List:
                 if (ilkdugum.veri == dugum):
                     break
                 prev = ilkdugum
+                ilkdugum = ilkdugum.sonraki
             if (ilkdugum == None):
                 return
             prev.sonraki = ilkdugum.sonraki
@@ -60,6 +61,7 @@ liste.basa_ekle("Mor")
 liste.sona_ekle("Pembe")
 liste.liste_yaz()
 
+print("#####################################")
 # ------------------------------------------------------------------------------------------
 
 liste2 = SLinked_List()
@@ -73,5 +75,6 @@ d6.sonraki = d7
 d7.sonraki = d8
 liste2.basa_ekle("Mor")
 liste2.sona_ekle("Pembe")
+liste2.liste_yaz()
 liste2.sil("Mavi")
 liste2.liste_yaz()

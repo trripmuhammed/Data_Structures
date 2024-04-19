@@ -22,6 +22,7 @@ print(demet[0][2])
 print(demet[1][2])
 
 print(demet2[1:4])
+print("demet: :")
 print(demet2[:])
 
 print('t' in demet2) #demetin icinde olup olmadigini kontrol eder bool olarak dondurur

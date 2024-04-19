@@ -2,7 +2,7 @@ class Queue:
     def __init__(self):
         self.items = []
         print('Kuyruk olusturuldu.')
-    def __str__(self): ###############
+    def __str__(self): #print gibi fonksiyonlarda cagrilir
         elemanlar=[str(x) for x in self.items]
         return '\n'.join(elemanlar)
 

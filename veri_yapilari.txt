@@ -2,4 +2,4 @@ fonksiyonlar tablo
 fonksiyonun hangi veri yapisinda kullanildigi
 karşılaştor
 
-CİRPİ yok
+cirpi yok
