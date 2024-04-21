@@ -49,6 +49,7 @@ dizi.reverse()
 print(dizi)
 
 print(dizi.buffer_info())
+print("Count: ")
 print(dizi.count(12))
 
 matris=numpy.array([[4,3,7],[1,4,2],[7,9,2]])
@@ -62,7 +63,7 @@ print(matris3)
 
 def elemanlaraerisim(matris, satirno, sutunno): #eleman ariyor
   if(satirno>=len(matris) or sutunno>=len(matris[0])):
-    return "hatalı giris"
+    return "hatali giris"
   else:
       return matris[satirno][sutunno]
 matris=([[4,3,7,8],[1,4,8,2],[7,9,2,5],[12,17,92,22]])
