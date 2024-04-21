@@ -1,5 +1,5 @@
 S1={1:"bir",2:"iki",3:"uc",4:"dort",5:"bes"}
-S2={"beyaz":"whilte","siyah":"black","pembe":"pink","yesil":"green","sari":"yellow"}
+S2={"beyaz":"white","siyah":"black","pembe":"pink","yesil":"green","sari":"yellow"}
 print(S1)
 print(S2)
 
