@@ -25,3 +25,8 @@ liste.ekle("Mavi")
 liste.ekle("Yesil")
 liste.listeyaz(liste.ilkdugum)
 
+""" 
+Yesil
+Mavi
+Kirmizi
+"""

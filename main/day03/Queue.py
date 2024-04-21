@@ -43,3 +43,20 @@ print()
 kuyruk.dequeue()
 print(kuyruk)
 print()
+
+""" 
+Kuyruk olusturuldu.
+True
+
+eleman kuyruga eklendi
+eleman kuyruga eklendi
+eleman kuyruga eklendi
+5
+15
+25
+
+5
+
+15
+25
+"""

@@ -33,3 +33,21 @@ dizi=[8,10,12]
 yeni = tuple(dizi)
 print(type(yeni))
 
+"""
+array('i', [21, 16, 56, 82, 34])
+()
+(10, 'Hasan', 7.9)
+()
+('elma', [12, 45, 52], (14, 21, 34))
+y
+n
+m
+52
+('y', 't', 'h')
+demet: :
+('p', 'y', 't', 'h', 'o', 'n')
+True
+True
+True
+<class 'tuple'>
+"""

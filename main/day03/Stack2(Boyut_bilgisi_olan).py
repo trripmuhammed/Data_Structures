@@ -30,3 +30,16 @@ yigin.push('Ahmet')
 print()
 
 print(yigin)
+
+""" 
+Stack initialised
+Eleman yigina eklendi.
+Eleman yigina eklendi.
+Eleman yigina eklendi.
+Yigin dolu
+Yigin dolu
+
+Mehmet
+ali
+3
+"""

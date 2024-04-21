@@ -77,4 +77,45 @@ liste2.basa_ekle("Mor")
 liste2.sona_ekle("Pembe")
 liste2.liste_yaz()
 liste2.sil("Mavi")
+print("Maviyi silme islemi yapildi","\n")
 liste2.liste_yaz()
+
+""" 
+Mor
+<__main__.Node object at 0x000001AB145F7010>
+Kirmizi
+<__main__.Node object at 0x000001AB145F7050>
+Yesil
+<__main__.Node object at 0x000001AB145F7090>
+Siyah
+<__main__.Node object at 0x000001AB145F70D0>
+Mavi
+<__main__.Node object at 0x000001AB145F7250>
+Pembe
+None
+#####################################
+Mor
+<__main__.Node object at 0x000001AB145F7290>
+Kirmizi
+<__main__.Node object at 0x000001AB145F7310>
+Yesil
+<__main__.Node object at 0x000001AB145F7350>
+Siyah
+<__main__.Node object at 0x000001AB145F7390>
+Mavi
+<__main__.Node object at 0x000001AB145F7410>
+Pembe
+None
+Maviyi silme islemi yapildi 
+
+Mor
+<__main__.Node object at 0x000001AB145F7290>
+Kirmizi
+<__main__.Node object at 0x000001AB145F7310>
+Yesil
+<__main__.Node object at 0x000001AB145F7350>
+Siyah
+<__main__.Node object at 0x000001AB145F7410>
+Pembe
+None
+"""

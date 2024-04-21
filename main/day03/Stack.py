@@ -56,3 +56,25 @@ print()
 yigin.delete()
 #print(yigin) yigin komple silindiginden yazdiramiyoruz
 
+""" 
+Stack initialised
+True
+Eleman yigina eklendi
+Eleman yigina eklendi
+Eleman yigina eklendi
+Eleman yigina eklendi
+Ali
+72
+21
+16
+
+Eleman yigindan silindi
+72
+21
+16
+
+peek metodu ile ogrenilen deger:  72
+
+Yigin silindi.
+
+"""
