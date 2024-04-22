@@ -55,5 +55,5 @@ values
 items
 parents
 direkt atama yapilabilir Cm["renk5"]="siyah" gibi
-
+del
 

@@ -30,6 +30,8 @@ yigin.push('Ahmet')
 print()
 
 print(yigin)
+print(yigin)
+
 
 """ 
 Stack initialised
