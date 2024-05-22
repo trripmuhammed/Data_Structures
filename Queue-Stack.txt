@@ -13,11 +13,11 @@ Stack:
 LIFO (Yani ters siralanmistir)
 
 push: deger ekle
-pop: ilk elemani siler 
+pop: ilk elemani siler
 (Yani en son eklenen elemani siler ve o eleman ters siralama oldugundan(LIFU) ilk siradadir)
 
 Stack(Boyut bilgili):
 
 push: deger ekle
 Bunun farki init(self,boyut) yani boyut bilgisi vermemizdir
-yigin dolarda daha eleman eklenemez
+yigin dolarsa daha eleman eklenemez

@@ -2,6 +2,7 @@ import numpy
 from numpy import *
 from array import *
 
+
 dizi=array('i',[])
 dizi.append(12)
 
@@ -121,6 +122,7 @@ else:
 
 L1=[1,3,5,7,9]
 L2=[0,2,4,6,8]
+
 L3=L1+L2
 print(L3)
 
