@@ -1,0 +1,23 @@
+Queue:
+
+First in First out
+
+enqueue: deger ekleme
+dequeue: ilk elemani siler
+
+peek: kuyrugun ilk elemanini gosterir
+pop: belirtilen indexdeki elemani siler (parametresiz se sonuncuyu siler)
+
+Stack:
+
+LIFO (Yani ters siralanmistir)
+
+push: deger ekle
+pop: ilk elemani siler
+(Yani en son eklenen elemani siler ve o eleman ters siralama oldugundan(LIFU) ilk siradadir)
+
+Stack(Boyut bilgili):
+
+push: deger ekle
+Bunun farki init(self,boyut) yani boyut bilgisi vermemizdir
+yigin dolarsa daha eleman eklenemez

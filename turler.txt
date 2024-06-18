@@ -1,0 +1,59 @@
+tuple: () #farkli olabilir 
+kume: {} #olabilir gibi
+liste: [] #farkli turler olabilir
+array: (tur,[]) olmaz
+sozluk:Map {} #farkli olabilir "bir":1
+CM: 2 sozlugu birlestirir
+
+array:
+append
+insert
+remove
+index
+reverse
+extend(dizi) diziye dizi ekleme
+dizi.fromlist(dizi) diziye dizi ekleme
+buffer_info
+count (kac tane var)
+
+numpy:
+
+delete(matris,(satir sutun),axis)
+insert(matris,(sutun veya satir no(varsa),eklenecek kume,axis(0 ise satir 1 ise sutun)))
+
+liste:
+
++ (listeleri birlestirir)
+* (listeyi sayi kadar tekrar edip listeye koyar 3 ise 3 tane ondan olur)
+sort
+insert
+
+
+
+sozluk:
+copy
+2:14 (2 dahil degil 14 dahil index degil) (bu tuple da)
+get(key)
+keys
+items
+values
+dict.fromkeys(tuple,int) #sozluk olusturuyor
+
+kumeler:
+add
+discard
+union
+intersection(kesisim)
+"|" birlestirme
+"&" kesisim
+"-" farkli
+">" kapsama (Bool return eder)
+
+CM:
+keys
+values
+items
+parents
+direkt atama yapilabilir Cm["renk5"]="siyah" gibi
+del
+

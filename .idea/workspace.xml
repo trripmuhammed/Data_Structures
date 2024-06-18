@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ee25297-2bae-46d1-9423-e0078f551e6d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dxFjIvTA5XNT7GYi4EMwpgOWBx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Agac_Yapilari.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C02-Map_Sozluk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C03-Kumeler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C04-Chain_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graflar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash_Table(Cirpi_Tablosu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Heap_Agaclari.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Agac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Agac2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Arama_Agaci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Arama_Agaci_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Arama_Agacinda_Once_Genislik_Dolasimi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ikili_Arama_Agaclarindan_once_genislik_dolasimi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.In_Order_Dolasim (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.In_Order_Dolasim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linked_List(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linked_List(Bagli Listeler).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Once_Genislik_Dolasim_Graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Post_Order_Dolasim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pre_Order_Dolasim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stack2(Boyut_bilgisi_olan).executor&quot;: &quot;Run&quot;,
+    &quot;Python.deneme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deneme1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deneme2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deneme3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rizel/Desktop/2.Sinif/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rizel\Desktop\2.Sinif\Python\main\day06" />
+      <recent name="C:\Users\rizel\Desktop\2.Sinif\Python\main\day08" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Heap_Agaclari">
+    <configuration name="Graflar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python,(Data Structures)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day08/Graflar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Heap_Agaclari" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python,(Data Structures)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day08/Heap_Agaclari.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ikili_Arama_Agacinda_Once_Genislik_Dolasimi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python,(Data Structures)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day07/Ikili_Arama_Agacinda_Once_Genislik_Dolasimi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ikili_Arama_Agaclarindan_once_genislik_dolasimi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python,(Data Structures)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day08/Ikili_Arama_Agaclarindan_once_genislik_dolasimi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pre_Order_Dolasim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python,(Data Structures)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day05/Pre_Order_Dolasim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Heap_Agaclari" />
+        <item itemvalue="Python.Graflar" />
+        <item itemvalue="Python.Ikili_Arama_Agacinda_Once_Genislik_Dolasimi" />
+        <item itemvalue="Python.Ikili_Arama_Agaclarindan_once_genislik_dolasimi" />
+        <item itemvalue="Python.Pre_Order_Dolasim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ee25297-2bae-46d1-9423-e0078f551e6d" name="Changes" comment="" />
+      <created>1710941955345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710941955345</updated>
+      <workItem from="1710942011801" duration="189000" />
+      <workItem from="1710942207842" duration="62000" />
+      <workItem from="1711447691695" duration="3467000" />
+      <workItem from="1711451180771" duration="2585000" />
+      <workItem from="1712052615031" duration="5802000" />
+      <workItem from="1712076938496" duration="2206000" />
+      <workItem from="1712303437184" duration="841000" />
+      <workItem from="1712415594931" duration="24000" />
+      <workItem from="1712415620107" duration="14000" />
+      <workItem from="1712421006267" duration="74000" />
+      <workItem from="1712421843242" duration="1073000" />
+      <workItem from="1712577283814" duration="5000" />
+      <workItem from="1713262331204" duration="2039000" />
+      <workItem from="1713264401958" duration="1532000" />
+      <workItem from="1713295930821" duration="2068000" />
+      <workItem from="1713449456028" duration="5153000" />
+      <workItem from="1713509423932" duration="1586000" />
+      <workItem from="1713517289808" duration="327000" />
+      <workItem from="1713517625196" duration="13000" />
+      <workItem from="1713517683046" duration="22000" />
+      <workItem from="1713517713267" duration="2000" />
+      <workItem from="1713620160811" duration="7000" />
+      <workItem from="1713710949770" duration="13128000" />
+      <workItem from="1713758617271" duration="7909000" />
+      <workItem from="1714670225243" duration="3000" />
+      <workItem from="1714828344899" duration="320000" />
+      <workItem from="1715076564420" duration="2462000" />
+      <workItem from="1715079726790" duration="2643000" />
+      <workItem from="1715681063068" duration="2586000" />
+      <workItem from="1715683756680" duration="3309000" />
+      <workItem from="1715881857121" duration="1000" />
+      <workItem from="1716285991671" duration="5984000" />
+      <workItem from="1716398305291" duration="174000" />
+      <workItem from="1716807025739" duration="171000" />
+      <workItem from="1716807229868" duration="3142000" />
+      <workItem from="1716810616113" duration="2144000" />
+      <workItem from="1716813814068" duration="922000" />
+      <workItem from="1716906104457" duration="1571000" />
+      <workItem from="1717243878349" duration="20000" />
+      <workItem from="1717778871350" duration="5623000" />
+      <workItem from="1718101309358" duration="525000" />
+      <workItem from="1718101886192" duration="67000" />
+      <workItem from="1718693634237" duration="3395000" />
+      <workItem from="1718697545160" duration="401000" />
+      <workItem from="1718697952816" duration="513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Arama_Agaci_2.coverage" NAME="Ikili_Arama_Agaci_2 Coverage Results" MODIFIED="1716810160159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day06" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Pre_Order_Dolasim.coverage" NAME="Pre_Order_Dolasim Coverage Results" MODIFIED="1717780247207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Graflar.coverage" NAME="Graflar Coverage Results" MODIFIED="1717784354338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day08" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Hash_Table_Cirpi_Tablosu.coverage" NAME="Hash_Table(Cirpi_Tablosu Coverage Results" MODIFIED="1713296483505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day03" />
+    <SUITE FILE_PATH="coverage/Python$C02.coverage" NAME="C02-Map_Sozluk Coverage Results" MODIFIED="1711450788842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day02" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$C04_Chain_Map.coverage" NAME="C04-Chain_Map Coverage Results" MODIFIED="1713296187725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day02" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Arama_Agacinda_Once_Genislik_Dolasimi.coverage" NAME="Ikili_Arama_Agacinda_Once_Genislik_Dolasimi Coverage Results" MODIFIED="1717783759568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day07" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Heap_Agaclari.coverage" NAME="Heap_Agaclari Coverage Results" MODIFIED="1717784491818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day08" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Post_Order_Dolasim.coverage" NAME="Post_Order_Dolasim Coverage Results" MODIFIED="1716812800499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme1.coverage" NAME="deneme1 Coverage Results" MODIFIED="1713712901471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/denemeler" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Linked_List_Bagli_Listeler_.coverage" NAME="Linked_List(Bagli Listeler) Coverage Results" MODIFIED="1713715626663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day04" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$C03_Kumeler.coverage" NAME="C03-Kumeler Coverage Results" MODIFIED="1711452998550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day02" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Agac_Yapilari.coverage" NAME="Agac_Yapilari Coverage Results" MODIFIED="1717779068611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python$C01.coverage" NAME="C01 Coverage Results" MODIFIED="1711449515841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day02" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Agac.coverage" NAME="Ikili_Agac Coverage Results" MODIFIED="1715080792327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Stack2_Boyut_bilgisi_olan_.coverage" NAME="Stack2(Boyut_bilgisi_olan) Coverage Results" MODIFIED="1713720092502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day03" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Arama_Agaci.coverage" NAME="Ikili_Arama_Agaci Coverage Results" MODIFIED="1716810330211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day06" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1713297801628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day03" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme2.coverage" NAME="deneme2 Coverage Results" MODIFIED="1713711724127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/denemeler" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Arama_Agaclarindan_once_genislik_dolasimi.coverage" NAME="Ikili_Arama_Agaclarindan_once_genislik_dolasimi Coverage Results" MODIFIED="1717782865728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day08" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Agac2.coverage" NAME="Ikili_Agac2 Coverage Results" MODIFIED="1715080831566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Linked_List_2_.coverage" NAME="Linked_List(2) Coverage Results" MODIFIED="1713717178464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day04" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$In_Order_Dolasim__1_.coverage" NAME="In_Order_Dolasim (1) Coverage Results" MODIFIED="1715684793243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$In_Order_Dolasim.coverage" NAME="In_Order_Dolasim Coverage Results" MODIFIED="1717779882128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1713761827864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day03" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1716287733317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day08" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$C01.coverage" NAME="C01 Coverage Results" MODIFIED="1713718040870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day01" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme3.coverage" NAME="deneme3 Coverage Results" MODIFIED="1713715737072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/denemeler" />
+    <SUITE FILE_PATH="coverage/Python__Data_Structures_$Once_Genislik_Dolasim_Graph.coverage" NAME="Once_Genislik_Dolasim_Graph Coverage Results" MODIFIED="1716907064346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day09" />
+  </component>
+</project>
