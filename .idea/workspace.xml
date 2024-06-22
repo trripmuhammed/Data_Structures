@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ee25297-2bae-46d1-9423-e0078f551e6d" name="Changes" comment="" />
+    <list default="true" id="3ee25297-2bae-46d1-9423-e0078f551e6d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,57 +32,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Agac_Yapilari.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C02-Map_Sozluk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C03-Kumeler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C04-Chain_Map.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Graflar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hash_Table(Cirpi_Tablosu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Heap_Agaclari.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Agac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Agac2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Arama_Agaci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Arama_Agaci_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Arama_Agacinda_Once_Genislik_Dolasimi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ikili_Arama_Agaclarindan_once_genislik_dolasimi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.In_Order_Dolasim (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.In_Order_Dolasim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Linked_List(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Linked_List(Bagli Listeler).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Once_Genislik_Dolasim_Graph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Post_Order_Dolasim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pre_Order_Dolasim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Stack2(Boyut_bilgisi_olan).executor&quot;: &quot;Run&quot;,
-    &quot;Python.deneme.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deneme1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deneme2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deneme3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rizel/Desktop/2.Sinif/Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Agac_Yapilari.executor": "Run",
+    "Python.C01.executor": "Run",
+    "Python.C02-Map_Sozluk.executor": "Run",
+    "Python.C02.executor": "Run",
+    "Python.C03-Kumeler.executor": "Run",
+    "Python.C04-Chain_Map.executor": "Run",
+    "Python.Graflar.executor": "Run",
+    "Python.Hash_Table(Cirpi_Tablosu.executor": "Run",
+    "Python.Heap_Agaclari.executor": "Run",
+    "Python.Ikili_Agac.executor": "Run",
+    "Python.Ikili_Agac2.executor": "Run",
+    "Python.Ikili_Arama_Agaci.executor": "Run",
+    "Python.Ikili_Arama_Agaci_2.executor": "Run",
+    "Python.Ikili_Arama_Agacinda_Once_Genislik_Dolasimi.executor": "Run",
+    "Python.Ikili_Arama_Agaclarindan_once_genislik_dolasimi.executor": "Run",
+    "Python.In_Order_Dolasim (1).executor": "Run",
+    "Python.In_Order_Dolasim.executor": "Run",
+    "Python.Linked_List(2).executor": "Run",
+    "Python.Linked_List(Bagli Listeler).executor": "Run",
+    "Python.Once_Genislik_Dolasim_Graph.executor": "Run",
+    "Python.Post_Order_Dolasim.executor": "Run",
+    "Python.Pre_Order_Dolasim.executor": "Run",
+    "Python.Queue.executor": "Run",
+    "Python.Stack.executor": "Run",
+    "Python.Stack2(Boyut_bilgisi_olan).executor": "Run",
+    "Python.asd.executor": "Run",
+    "Python.deneme.executor": "Run",
+    "Python.deneme1.executor": "Run",
+    "Python.deneme2.executor": "Run",
+    "Python.deneme3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rizel/Desktop/2.Sinif/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rizel\Desktop\2.Sinif\Python\main\day06" />
       <recent name="C:\Users\rizel\Desktop\2.Sinif\Python\main\day08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Heap_Agaclari">
+  <component name="RunManager" selected="Python.asd">
     <configuration name="Graflar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python,(Data Structures)" />
       <option name="ENV_FILES" value="" />
@@ -172,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pre_Order_Dolasim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python,(Data Structures)" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/day05/Pre_Order_Dolasim.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/asd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.asd" />
         <item itemvalue="Python.Heap_Agaclari" />
         <item itemvalue="Python.Graflar" />
         <item itemvalue="Python.Ikili_Arama_Agacinda_Once_Genislik_Dolasimi" />
         <item itemvalue="Python.Ikili_Arama_Agaclarindan_once_genislik_dolasimi" />
-        <item itemvalue="Python.Pre_Order_Dolasim" />
       </list>
     </recent_temporary>
   </component>
@@ -266,11 +270,24 @@
       <workItem from="1718697545160" duration="401000" />
       <workItem from="1718697952816" duration="513000" />
       <workItem from="1718698472482" duration="224000" />
+      <workItem from="1718698702389" duration="51000" />
+      <workItem from="1718965684942" duration="330000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$Ikili_Arama_Agaci_2.coverage" NAME="Ikili_Arama_Agaci_2 Coverage Results" MODIFIED="1716810160159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day06" />
@@ -299,6 +316,7 @@
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$In_Order_Dolasim.coverage" NAME="In_Order_Dolasim Coverage Results" MODIFIED="1717779882128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day05" />
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1713761827864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day03" />
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1716287733317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day08" />
+    <SUITE FILE_PATH="coverage/Python$asd.coverage" NAME="asd Coverage Results" MODIFIED="1718965798660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$C01.coverage" NAME="C01 Coverage Results" MODIFIED="1713718040870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day01" />
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$deneme3.coverage" NAME="deneme3 Coverage Results" MODIFIED="1713715737072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/denemeler" />
     <SUITE FILE_PATH="coverage/Python__Data_Structures_$Once_Genislik_Dolasim_Graph.coverage" NAME="Once_Genislik_Dolasim_Graph Coverage Results" MODIFIED="1716907064346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/day09" />
